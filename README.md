@@ -18,8 +18,11 @@ While IExpress is more than enough to get the job done, not everyone wants to bo
 There’s a host of Batch to EXE converters out there. So, iam not going to recommend any specific tool to you, for this example, we will use the BAT to EXE Converter. To get started with the Batch to EXE files converter, follow the steps below:
 
 1.Download the free BAT to EXE Converter and install it on your PC.
+<br>
 2.After you've launched the tool, click on Open and select the batch file you’d like to convert.
+<br>
 3.Next, click on Convert and give a name to the location of your file.
+<br>
 4.Finally, click on Save.
 ## Screenshots
 
